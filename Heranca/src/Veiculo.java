@@ -12,9 +12,11 @@ public void buzinar() {
 
 public void imprimirDados() {
 	
-	System.out.println("Marca" + marca);
-	System.out.println("Modelo" + modelo);
-	System.out.println("Ano" + ano);
+	
+	
+	System.out.println("Marca: " + marca);
+	System.out.println("Modelo: " + modelo);
+	System.out.println("Ano: " + ano);
 }
 
 
@@ -37,6 +39,5 @@ public void setAno(int ano) {
 	this.ano = ano;
 }
 
- 
 
 }
