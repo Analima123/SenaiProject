@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<alunos>
+    <aluno id="1">
+        <Nome>1</Nome>
+        <CPF>1</CPF>
+        <Curso>1</Curso>
+        <Endereco/>
+        <Rua>rua</Rua>
+        <Numero>222</Numero>
+        <Bairro>bairro</Bairro>
+        <Cidade>cidade</Cidade>
+        <Estado>estado</Estado>
+        <CEP>48345</CEP>
+    </aluno>
+</alunos>
